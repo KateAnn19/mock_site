@@ -2,11 +2,12 @@
 
 body {
   width: 80%;
-  border: 20px solid #bdc3c7;
+  border: 20px solid #586378;
   font-family: 'Source Sans Pro', sans-serif;
   padding: 20px;
   margin: 20px auto;
   max-width: 700px;
+  background-color: #bad9dd;
 }
 
 .post {
@@ -14,7 +15,7 @@ body {
 }
 
 .date {
-  color: #3498db;
+  color: #122430;
   letter-spacing: 0.2rem;
   text-transform: uppercase;
 }
@@ -35,4 +36,8 @@ hr{
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.note{
+  color: 
 }
