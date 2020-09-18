@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
 
-body {
+.body {
   width: 80%;
   border: 20px solid #586378;
   font-family: 'Source Sans Pro', sans-serif;
@@ -38,6 +38,5 @@ hr{
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-.note{
-  color: 
-}
+
+
